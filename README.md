@@ -19,6 +19,23 @@ More detailed information regarding the class distribution and dataset splits ca
 
 - Class-wise statistics for the 8 selected classes from Kinetics-400
 - Distribution breakdown of KS and KSS datasets
+- Other stuff
+
+## Dataset Composition Overview
+
+Below is a visual summary of the class distribution in the KS and KSS datasets. These tables provide detailed breakdowns of:
+
+- Total samples per class
+- Child and adult data split
+- Child data percentage
+
+<div align="center">
+
+<img src="Dataset details/KS_dataset.png" width="45%" alt="KS Dataset Details">
+<img src="Dataset details/KSS_dataset.png" width="45%" alt="KSS Dataset Details">
+
+</div>
+
 
 These images/tables provide useful insights into the number of clips per class, train/validation/test split ratios, and dataset coverage.
 
