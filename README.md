@@ -34,7 +34,7 @@ Below is a visual summary of the class distribution in the KS and KSS datasets. 
 | ![KS Dataset](Dataset%20details/KS_dataset.png) | ![KSS Dataset](Dataset%20details/KSS_dataset.png) |
 
 
-These images/tables provide useful insights into the number of clips per class, train/validation/test split ratios, and dataset coverage.
+These images/tables provide useful insights into the number of clips per class, train/validation/test split ratios, and dataset coverage. There may be two,three files missing from KS-KSS dataset due to some errors.
 
 ## Accessing Raw Video References
 
