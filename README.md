@@ -73,7 +73,7 @@ This saves users the effort of video collection and processing, making it easier
 If you have any questions regarding this dataset, detailed guidelines on usage or related codes, please contact:
 
 **Sanka Mohottala**  
-Email: `sanka.m@sliit.lk`
+Email: `sanka.m@sliit.lk`, `divandyasm@gmail.com`
 
 If you use this dataset in your research, please consider citing the following work that inspired or relates to this project:
 
