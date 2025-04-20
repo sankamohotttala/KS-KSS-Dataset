@@ -25,7 +25,19 @@ The `Raw files` directory in this repository contains metadata files categorized
 - `all child`
 - `All data (child and adult)`
 
-Each file in these folders lists YouTube video IDs corresponding to specific action classes. Each file corresponds to a specific action class and contains samples for that class. The filenames are formatted as `<class_name>_<class_id>.txt`. These raw data `.txt` files reference the original Kinetics-600 videos, which include information such as the exact time span of the action segment. Anyone interested in reconstructing the KS dataset's RGB videos can use this information along with the official [Kinetics-600 dataset](https://deepmind.com/research/open-source/kinetics) to download and trim the appropriate video clips.
+Each file in these folders lists YouTube video IDs corresponding to a specific action class. The filenames follow the format `<class_name>_<class_id>.txt`, and each file contains a list of samples for that class.
+
+These `.txt` files reference the original Kinetics-600 videos and can be used—along with the official [Kinetics-600 dataset](https://github.com/cvdfoundation/kinetics-dataset)—to reconstruct the RGB clips. The official dataset provides CSV files containing key metadata such as:
+
+- `youtube_id`
+- `label` (action class)
+- `start_time` and `end_time` of the action
+- `subset` (train/val/test split)
+
+Using this information, you can download the full videos and extract the relevant action clips.
+
+Alternatively, already-trimmed action clips can be directly downloaded from the [CVD Foundation Kinetics Dataset](https://github.com/cvdfoundation/kinetics-dataset), which provides easy access to preprocessed segments.
+
 
 **Note**: The Kinetics-600 dataset must be separately obtained and is not included in this repository due to licensing and size constraints.
 
