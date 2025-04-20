@@ -68,7 +68,22 @@ This saves users the effort of video collection and processing, making it easier
 
 
 
+## Citation and Contact
 
+If you have any questions regarding this dataset, detailed guidelines on usage or related codes, please contact:
 
+**Sanka Mohottala**  
+Email: `sanka.m@sliit.lk`
 
-Please contact Sanka Mohottala (sanka.m@sliit.lk) for detailed guidelines on how to use this dataset along with necessary codes.
+If you use this dataset in your research, please consider citing the following work that inspired or relates to this project:
+
+```bibtex
+@Article{song2020richly,
+  title   = {2D Pose Estimation based Child Action Recognition},
+  author  = {Mohottala, Sanka and Abeygunawardana, Sandun and Samarasinghe, Pradeepa and Kasthurirathna, Dharshana and Abhayaratne, Charith},
+  conference= {TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON)},
+  conference location = {Hong Kong, Hong Kong},
+  publisher= {IEEE},
+  year    = {2022},
+  doi     = {10.1109/TENCON55691.2022.9977799},
+}
