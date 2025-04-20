@@ -75,7 +75,7 @@ If you have any questions regarding this dataset, detailed guidelines on usage o
 **Sanka Mohottala**  
 Email: `sanka.m@sliit.lk`, `divandyasm@gmail.com`
 
-If you use this dataset in your research, please consider citing the following work that inspired or relates to this project:
+If you use this dataset in your research, please consider citing the following work that resulted this dataset:
 
 ```bibtex
 @INPROCEEDINGS{sanka2022tencon,
