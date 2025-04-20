@@ -22,8 +22,8 @@ The dataset is organized as a list of frame-wise pose annotations in JSON format
       "frame_index": "int",
       "skeleton": [
         {
-          "pose": ["x1", "y1", "x2", "y2", ..., "xn", "yn"],
-          "score": ["s1", "s2", ..., "sn"]
+          "pose": ["x1", "y1", "x2", "y2",".....", "xn", "yn"],
+          "score": ["s1", "s2", "...", "sn"]
         }
       ]
     }
