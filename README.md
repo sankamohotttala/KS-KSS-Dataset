@@ -78,11 +78,11 @@ Email: `sanka.m@sliit.lk`
 If you use this dataset in your research, please consider citing the following work that inspired or relates to this project:
 
 ```bibtex
-@Article{song2020richly,
+@INPROCEEDINGS{sanka2022tencon,
   title   = {2D Pose Estimation based Child Action Recognition},
   author  = {Mohottala, Sanka and Abeygunawardana, Sandun and Samarasinghe, Pradeepa and Kasthurirathna, Dharshana and Abhayaratne, Charith},
   conference= {TENCON 2022 - 2022 IEEE Region 10 Conference (TENCON)},
-  conference location = {Hong Kong, Hong Kong},
+  location = {Hong Kong, Hong Kong},
   publisher= {IEEE},
   year    = {2022},
   doi     = {10.1109/TENCON55691.2022.9977799},
