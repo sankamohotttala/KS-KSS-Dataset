@@ -17,9 +17,16 @@ This folder contains a curated subset of the Kinetics-600 dataset. These classes
 | hopscotch       | 156                    |
 | jumping         | 30                     |
 
+More detailed information regarding the class distribution and dataset splits can be found in the `Dataset details` folder. This folder contains visual summaries for:
+
+- Class-wise statistics for the 8 selected classes from Kinetics-400
+- Distribution breakdown of KS and KSS datasets
+
+These images/tables provide useful insights into the number of clips per class, train/validation/test split ratios, and dataset coverage.
+
 ## Accessing Raw Video References
 
-The `Raw files` directory in this repository contains metadata files categorized under:
+The `Raw Dataset` directory in this repository contains metadata files categorized under:
 
 - `All adult`
 - `all child`
