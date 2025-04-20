@@ -14,11 +14,12 @@ The dataset is organized as a list of frame-wise pose annotations in JSON format
 - `score` *(list of floats)*: Confidence scores corresponding to each keypoint.
 
 ### Schema Overview
+### Schema Overview
 ```json
 {
   "data": [
     {
-      "frame_index": [<int>],
+      "frame_index": <int>,
       "skeleton": [
         {
           "pose": [x1, y1, x2, y2, ..., xn, yn],
@@ -27,7 +28,8 @@ The dataset is organized as a list of frame-wise pose annotations in JSON format
       ]
     }
   ]
-}```
+}
+```
 
 
 ## Dataset File Details
