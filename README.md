@@ -29,13 +29,9 @@ Below is a visual summary of the class distribution in the KS and KSS datasets. 
 - Child and adult data split
 - Child data percentage
 
-<div align="center">
-
-<img src="Dataset details/KS_dataset.png" width="45%" alt="KS Dataset Details">
-<img src="Dataset details/KSS_dataset.png" width="45%" alt="KSS Dataset Details">
-
-</div>
-
+| KS Dataset | KSS Dataset |
+|------------|-------------|
+| ![KS Dataset](Dataset%20details/KS_dataset.png) | ![KSS Dataset](Dataset%20details/KSS_dataset.png
 
 These images/tables provide useful insights into the number of clips per class, train/validation/test split ratios, and dataset coverage.
 
