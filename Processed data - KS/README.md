@@ -19,7 +19,7 @@ The dataset is organized as a list of frame-wise pose annotations in JSON format
 {
   "data": [
     {
-      "frame_index": <int>,
+      "frame_index": "int",
       "skeleton": [
         {
           "pose": [x1, y1, x2, y2, ..., xn, yn],
