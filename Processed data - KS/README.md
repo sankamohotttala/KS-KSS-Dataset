@@ -27,7 +27,7 @@ The dataset is organized as a list of frame-wise pose annotations in JSON format
       ]
     }
   ]
-}
+}```
 
 
 ## Dataset File Details
