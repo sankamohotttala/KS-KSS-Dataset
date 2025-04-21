@@ -32,6 +32,22 @@ These images/tables provide useful insights into the number of clips per class, 
 
 More detailed information regarding the class distribution and dataset splits can be found in the Dataset details folder. 
 
+## Content
+
+We have added most of the data and some of the codes as well. A detailed breakdown of added/not-added features are given below:
+
+ - [x] text files of child-adult annotated KS dataset
+ - [x] RGB modality KS dataset
+ - [x] JSON formatted KS dataset
+ - [x] .npy and .pkl of KS with train-test split and without train-test split
+ - [x] .tfrecord of KS-Full protocol
+ - [ ] .tfrecord of KS other protocols (KS-Balanced, KS-Large, KS-Small)
+ - [ ] text files of child-adult annotated KS dataset
+ - [ ] RGB modality KS dataset
+ - [ ] JSON formatted KSS dataset
+ - [x] .npy and .pkl of KSS with train-test split
+ - [x] .tfrecord of KSS-Full protocol
+ - [ ] .tfrecord of KSS other protocols (KS-Balanced, KS-Large, KS-Small)
 
 ---
 
