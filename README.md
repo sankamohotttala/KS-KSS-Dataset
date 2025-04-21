@@ -52,9 +52,9 @@ We have added most of the data and some of the codes as well. A detailed breakdo
  - [ ] pre-processing codes
 ---
 
-## 📁 Additional Folder Summaries
+## Additional Folder Summaries
 
-### ✅ `Processed data - KS/`  
+### `Processed data - KS/`  
 This folder contains various versions of the **KS dataset in processed formats**, organized for streamlined preprocessing and experimentation:
 
 - `1_kinetics-skeleton format/`:  
@@ -71,7 +71,7 @@ This folder contains various versions of the **KS dataset in processed formats**
   - JSON → `.npy` and `.pkl`  
   - `.npy`/`.pkl` → `.tfrecord`  
 
-### ✅ `Processed data - KSS/`  
+### `Processed data - KSS/`  
 This folder contains the **fully processed KSS dataset**, ready for direct use in training and evaluation:
 - `.npy` and `.pkl` data files
 - `.tfrecord` files aligned with the **KSS-Full protocol**
