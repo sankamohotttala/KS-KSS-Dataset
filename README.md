@@ -49,7 +49,7 @@ We have added most of the data and some of the codes as well. A detailed breakdo
  - [x] .npy and .pkl of KSS with train-test split
  - [x] .tfrecord of KSS-Full protocol
  - [ ] .tfrecord of KSS other protocols (KS-Balanced, KS-Large, KS-Small)
-
+ - [ ] pre-processing codes
 ---
 
 ## 📁 Additional Folder Summaries
