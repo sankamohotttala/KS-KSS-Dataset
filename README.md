@@ -6,14 +6,14 @@ This folder contains a curated subset of the Kinetics-600 dataset. These classes
 
 | Class Name               | Text File Name         | Kinetics-600 Class ID | KS-KSS Class ID |
 |--------------------------|------------------------|------------------------|------------------|
-| Pullups                  | pullups_255.txt        | 255                    | 7                |
-| Squat                    | squat_330.txt          | 330                    | 6                |
-| Cutting watermelon       | watermelon_83.txt      | 83                     | 5                |
-| Baseball throw           | baseball_48.txt        | 48                     | 3                |
-| Clapping                 | clapping_57.txt        | 57                     | 1                |
-| Climbing tree            | climbingTree_68.txt    | 68                     | 4                |
 | Hopscotch                | hopscotch_156.txt      | 156                    | 0                |
+| Clapping                 | clapping_57.txt        | 57                     | 1                |
 | Bouncing on trampoline   | jumping_30.txt         | 30                     | 2                |
+| Baseball throw           | baseball_48.txt        | 48                     | 3                |
+| Climbing tree            | climbingTree_68.txt    | 68                     | 4                |
+| Cutting watermelon       | watermelon_83.txt      | 83                     | 5                |
+| Squat                    | squat_330.txt          | 330                    | 6                |
+| Pullups                  | pullups_255.txt        | 255                    | 7                |
 
 
 ## Dataset Composition Overview
