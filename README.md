@@ -32,9 +32,41 @@ These images/tables provide useful insights into the number of clips per class, 
 
 More detailed information regarding the class distribution and dataset splits can be found in the Dataset details folder. 
 
+
+---
+
+## 📁 Additional Folder Summaries
+
+### ✅ `Processed data - KS/`  
+This folder contains various versions of the **KS dataset in processed formats**, organized for streamlined preprocessing and experimentation:
+
+- `1_kinetics-skeleton format/`:  
+  KS dataset in **Kinetics-Skeleton JSON format**, used in pose-estimation-based pipelines. Enables standardized preprocessing.
+
+- `2_full_npy_pkl_format/`:  
+  The entire KS dataset in `.npy` and `.pkl` formats, without predefined train-test splits. Suitable for flexible KS-X protocol experiments.
+
+- `3_final_split_and_tfrecord/`:  
+  Final dataset used in paper and journal implementations, including all 8 classes and `.tfrecord` files aligned with the KS-Full protocol.
+
+- `STGCN_PreProcess_code/`:  
+  Python scripts for preprocessing, including:
+  - JSON → `.npy` and `.pkl`  
+  - `.npy`/`.pkl` → `.tfrecord`  
+
+### ✅ `Processed data - KSS/`  
+This folder contains the **fully processed KSS dataset**, ready for direct use in training and evaluation:
+- `.npy` and `.pkl` data files
+- `.tfrecord` files aligned with the **KSS-Full protocol**
+
+These are the final cleaned and formatted data resources used for our KSS-based transfer learning experiments. For other protocols, custom splitting and `.tfrecord` generation may be needed.
+
+---
+
+
 ## Accessing Raw Video References
 
-The `Raw Dataset` directory in this repository contains metadata files categorized under:
+The `Raw Dataset - KS` directory in this repository contains metadata files categorized under:
 
 - `All adult`
 - `all child`
