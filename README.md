@@ -4,16 +4,16 @@ This folder contains a curated subset of the Kinetics-600 dataset. These classes
 
 ## Included Action Classes
 
-| Class Name      | Kinetics-600 Class ID |
-|-----------------|------------------------|
-| pullups         | 255                    |
-| squat           | 330                    |
-| watermelon      | 83                     |
-| baseball        | 48                     |
-| clapping        | 57                     |
-| climbingTree    | 68                     |
-| hopscotch       | 156                    |
-| jumping         | 30                     |
+| Class Name      | Kinetics-600 Class ID | KS-KSS Class ID |
+|-----------------|------------------------|---|
+| Pullups         | 255                    | 7
+| Squat           | 330                    | 6 |
+| Cutting watermelon      | 83                     | 5 |
+| Baseball throw       | 48                     | 3 |
+| Clapping        | 57                     | 1 |
+| Climbing tree    | 68                     | 4 |
+| Hopscotch       | 156                    | 0 |
+| Bouncing on trampoline         | 30                     |  2 |
 
 ## Dataset Composition Overview
 
